@@ -6,7 +6,7 @@ import serial
 import time
 
 # Arduino communication settings
-ARDUINO_PORT = 'COM9'  # Change this to match your Arduino port
+ARDUINO_PORT = 'COM99'  # Change this to match your Arduino port
 BAUD_RATE = 9600
 
 class HandTracker:
